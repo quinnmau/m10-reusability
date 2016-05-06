@@ -17,6 +17,6 @@ The world's smallest JavaScript calculator library (probably).
 
 > Returns the current value of `number`
 
-\# Calc.*plus(value)*
+\# Calc.*plus()*
 
 > Adds `value` to the current value of `number`
